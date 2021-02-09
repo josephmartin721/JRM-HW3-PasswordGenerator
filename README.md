@@ -1,1 +1,2 @@
 # JRM-HW3-PasswordGenerator
+The purpose of this assignment was for the student to demonstrate an understanding if "if/else" statements and return loops in order to create a functioning password generator.
